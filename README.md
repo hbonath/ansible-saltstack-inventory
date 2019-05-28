@@ -1,2 +1,4 @@
 # ansible-saltstack-inventory
-Ansible dynamic inventory script for SaltStack
+
+Generates dynamic inventory for Ansible through the salt python client API. 
+
